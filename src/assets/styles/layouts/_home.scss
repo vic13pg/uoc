@@ -1,4 +1,4 @@
-//Scroll
+//Scroll. No sigue criterios BEM
 html {
   scroll-behavior: smooth;
 }
@@ -93,20 +93,18 @@ html {
 }
 
 .btn {
+  width: 120px;
   padding: 10px 20px;
   color: $color-secondary;
   background-color: $btn-bgcolor-primary;
   text-transform: uppercase;
   font-weight: 400;
   letter-spacing: 0.1em;
-  border: 2px solid  $color-primary;
+  border: 2px solid $color-primary;
   display: block;
   margin-bottom: 5%;
-
-  & a {
-    text-decoration: none;
-    color: $color-secondary;
-  }
+  text-align: center;
+  text-decoration: none;
 
   &:hover {
     background-color: $btn-bgcolor_hover;

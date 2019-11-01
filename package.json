@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/vic13pg/uoc.git"
   },
   "author": {
     "name": "Victoria Peris",
@@ -43,6 +43,7 @@
     "stylelint-scss": "^3.12.0"
   },
   "dependencies": {
-    "@fortawesome/fontawesome-free": "^5.11.2"
+    "@fortawesome/fontawesome-free": "^5.11.2",
+    "stylelint-selector-bem-pattern": "^2.1.0"
   }
 }

@@ -3,6 +3,7 @@
   margin-left: $margin-left;
   text-decoration: none;
   color: $color-primary;
+  line-height: 2.2em;
 }
 
 @mixin columna($width, $float) {
