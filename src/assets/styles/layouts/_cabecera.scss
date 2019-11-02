@@ -21,10 +21,10 @@
     list-style: none;
   }
 
-  &__link {
+  &__link-inline {
     position: relative;
 
-    @include menu__link(15px);
+    @include link-inline(15px);
     
     &::before {
       content: "";
@@ -45,7 +45,7 @@
     }
 
     &--rrss {
-      @include menu__link(0);
+      @include link-inline(0);
     }
   }
 }

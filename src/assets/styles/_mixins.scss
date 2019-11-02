@@ -1,4 +1,4 @@
-@mixin menu__link($margin-left: 0) {
+@mixin link-inline($margin-left: 0) {
   margin-right: 15px;
   margin-left: $margin-left;
   text-decoration: none;

@@ -3,7 +3,7 @@ $font-family: "Lato", sans-serif;
 $color-primary: #333;
 $color-secondary: #fff;
 $bg-color: #f2f2f2;
-$color-placeholder: #555;
+$color-placeholder: lighten($color-primary, 20%);
 $bg-color-box-form: rgba(0, 0, 0, 0.04);
 $border-container-color: $color-secondary;
 

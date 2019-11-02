@@ -1,6 +1,6 @@
-# UOC Boilerplate
+# CV Victoria Peris -- Multimedia Designer
 
-UOC Boilerplate is a starter template for the Advanced HTML and CSS Tools course from the [Master's Program in Multimedia Applications](https://estudis.uoc.edu/ca/masters-universitaris/aplicacions-multimedia/presentacio) and the [Master's Program in Web App and Website Development](https://estudis.uoc.edu/ca/masters-universitaris/desenvolupament-llocs-aplicacions-web/presentacio) at the [Universitat Oberta de Catalunya](https://www.uoc.edu). It aims to provide a basic, modern frontend web development starter pack based on Parcel and including a Sass compiler, an ES6 transpiler, minifiers, and development tools.
+CV based in UOC Boilerplate template.  UOC Boilerplate is a starter template for the Advanced HTML and CSS Tools course from the [Master's Program in Multimedia Applications](https://estudis.uoc.edu/ca/masters-universitaris/aplicacions-multimedia/presentacio) and the [Master's Program in Web App and Website Development](https://estudis.uoc.edu/ca/masters-universitaris/desenvolupament-llocs-aplicacions-web/presentacio) at the [Universitat Oberta de Catalunya](https://www.uoc.edu). It aims to provide a basic, modern frontend web development starter pack based on Parcel and including a Sass compiler, an ES6 transpiler, minifiers, and development tools.
 
 This is the 2.0 version of UOC Boilerplate, available since the UOC 2018-2 semester.
 
